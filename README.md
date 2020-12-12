@@ -1,8 +1,8 @@
-# Unit 19 React Homework: Employee Directory
+# Compania Inc 🏢 Employee Directory
 
-## Overview
+<!-- Badges -->
+![React](https://img.shields.io/badge/-React-blue)![HTML](https://img.shields.io/badge/HTML-red) ![CSS](https://img.shields.io/badge/CSS-purple) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) ![badmath](https://img.shields.io/badge/Bootstrap-purple) </br>
 
-For this assignment, you'll create a employee directory with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.
 
 ## User Story
 
@@ -14,8 +14,6 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 
 ## Acceptance Criteria
 
-Given a table of random users generated from the [Random User API](https://randomuser.me/), when the user loads the page, a table of employees should render. 
-
 The user should be able to:
 
   * Sort the table by at least one category
@@ -24,11 +22,6 @@ The user should be able to:
 
 ## Commit Early and Often
 
-One of the most important skills to master as a web developer is version control. Building the habit of committing via Git is important for two reasons:
-
-1. Your commit history is a signal to employers that you are actively working on projects and learning new skills
-
-2. Your commit history allows you to revert your code base in the event that you need to return to a previous state
 
 Follow these guidelines for committing:
 
@@ -47,9 +40,6 @@ Follow these guidelines for committing:
 
 ## Submission on BCS
 
-You are required to submit the following:
+* Heroku: 
 
-* the URL to the deployed application
-
-* the URL to the Github repository
 
