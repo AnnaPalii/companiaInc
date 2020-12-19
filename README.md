@@ -1,7 +1,11 @@
 # Compania Inc 🏢 Employee Directory
 
 <!-- Badges -->
-![React](https://img.shields.io/badge/-React-blue)![HTML](https://img.shields.io/badge/HTML-red) ![CSS](https://img.shields.io/badge/CSS-purple) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) ![badmath](https://img.shields.io/badge/Bootstrap-purple) </br>
+![React](https://img.shields.io/badge/-React-blue) 
+![HTML](https://img.shields.io/badge/HTML-red) 
+![CSS](https://img.shields.io/badge/CSS-purple) 
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow) 
+![badmath](https://img.shields.io/badge/Bootstrap-purple) </br>
 
 
 ## User Story
