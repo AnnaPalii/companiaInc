@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AnnaPalii/companiaInc/static/css/main.5966abbf.chunk.css",
+    "main.js": "/AnnaPalii/companiaInc/static/js/main.dc6999a6.chunk.js",
+    "main.js.map": "/AnnaPalii/companiaInc/static/js/main.dc6999a6.chunk.js.map",
+    "runtime-main.js": "/AnnaPalii/companiaInc/static/js/runtime-main.d3689390.js",
+    "runtime-main.js.map": "/AnnaPalii/companiaInc/static/js/runtime-main.d3689390.js.map",
+    "static/js/2.fa80def0.chunk.js": "/AnnaPalii/companiaInc/static/js/2.fa80def0.chunk.js",
+    "static/js/2.fa80def0.chunk.js.map": "/AnnaPalii/companiaInc/static/js/2.fa80def0.chunk.js.map",
+    "static/js/3.57987565.chunk.js": "/AnnaPalii/companiaInc/static/js/3.57987565.chunk.js",
+    "static/js/3.57987565.chunk.js.map": "/AnnaPalii/companiaInc/static/js/3.57987565.chunk.js.map",
+    "index.html": "/AnnaPalii/companiaInc/index.html",
+    "static/css/main.5966abbf.chunk.css.map": "/AnnaPalii/companiaInc/static/css/main.5966abbf.chunk.css.map",
+    "static/js/2.fa80def0.chunk.js.LICENSE.txt": "/AnnaPalii/companiaInc/static/js/2.fa80def0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3689390.js",
+    "static/js/2.fa80def0.chunk.js",
+    "static/css/main.5966abbf.chunk.css",
+    "static/js/main.dc6999a6.chunk.js"
+  ]
+}

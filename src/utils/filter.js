@@ -1,1 +1,0 @@
-import Userview  from '../components/Userview/index';
