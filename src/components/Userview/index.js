@@ -5,7 +5,8 @@ class Userview extends React.Component{
     state = {
         searchResult: [],
         filterResult: [],
-        inputField: ""
+        inputField: "",
+        sortedResult:[]
     }
 
     componentDidMount(){
@@ -24,10 +25,18 @@ class Userview extends React.Component{
         this.setState({filterResult: filtered})
     }
 
+    userSort = () => {
+      const sort = this.state.filterResult.sort(query =>query.name.first);
+      this.setState({sortedResult: sort})
+    }
+
+
+
     render () {
         return(
             <div>
                 <input className= "form-control mr-sm-2" onChange={this.handleInputChange} placeholder="Search Employee"></input>
+                <button type="button" class="btn btn-primary"onChange={this.userSort} >Sort</button>
                 <table className = "table table-dark">
                     <thead>
                         <tr>
