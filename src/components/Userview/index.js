@@ -1,6 +1,7 @@
 import React from 'react'
 import API from '../../utils/API';
 
+
 class Userview extends React.Component{
     state = {
         searchResult: [],
@@ -26,7 +27,8 @@ class Userview extends React.Component{
     }
 
     userSort = () => {
-      const sort = this.state.filterResult.sort(query =>query.name.first);
+      const sort = this.state.filterResult.sort((a, b) => a.name.first.localeCompare(b.name.first));
+      console.log(sort);
       this.setState({sortedResult: sort})
     }
 
@@ -36,7 +38,7 @@ class Userview extends React.Component{
         return(
             <div>
                 <input className= "form-control mr-sm-2" onChange={this.handleInputChange} placeholder="Search Employee"></input>
-                <button type="button" class="btn btn-primary"onChange={this.userSort} >Sort</button>
+                <button type="button" class="btn bg-dark-gray" onClick={this.userSort} >Sort</button>
                 <table className = "table table-dark">
                     <thead>
                         <tr>
