@@ -19,6 +19,6 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 
 ## App
 
-* Heroku: 
+* Github Pages: https://annapalii.github.io/companiaInc/
 
 
